@@ -711,10 +711,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "The American Revolution and Early Republic (1754-1800)"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Foundations of American Democracy"
         },
         {
@@ -756,7 +752,7 @@
       ]
     },
     "created_at": "2026-09-29T17:16:23.483Z",
-    "updated_at": "2026-09-30T00:01:01.175Z",
+    "updated_at": "2026-09-30T00:01:05.342Z",
     "generate_pages_site": true
   },
   "annotations": {},
