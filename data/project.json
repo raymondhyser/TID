@@ -714,10 +714,6 @@
           "tag": "Tom Mueller"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Civil Liberties and Civil Rights"
-        },
-        {
           "category": "Speaker",
           "tag": "Michael Lind"
         },
@@ -728,7 +724,7 @@
       ]
     },
     "created_at": "2026-09-29T17:16:23.483Z",
-    "updated_at": "2026-09-30T00:01:30.922Z",
+    "updated_at": "2026-09-30T00:01:34.598Z",
     "generate_pages_site": true
   },
   "annotations": {},
