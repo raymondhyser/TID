@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "b8aec5d4-8442-4aca-b721-6b942db2147e": {
+      "label": "Episode 270: Political Violence",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2024/07/2024-07-19_This-is-Democracy_Episode-270_master.mp3",
+      "duration": 2493
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 270: Political Violence",
+  "created_at": "2026-10-26T20:17:36.377Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:17:36.377Z",
+  "updated_by": "raymondhyser"
+}

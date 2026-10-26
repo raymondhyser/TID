@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "f741f3ac-d863-4ab9-80ac-e7a21cfa0280": {
+      "label": "Episode 208: The Third Reconstruction",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2022/09/2022-09-06_This-is-Democracy_Episode-208_Master.mp3",
+      "duration": 2780
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 208: The Third Reconstruction",
+  "created_at": "2026-10-26T20:17:36.377Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:17:36.377Z",
+  "updated_by": "raymondhyser"
+}

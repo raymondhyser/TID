@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "e8c85e16-6289-4f25-a8ec-e400c18920c1": {
+      "label": "Episode 207: Gorbachev",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2022/09/2022-09-01_This-is-Democracy_Episode-207_Master.mp3",
+      "duration": 1880
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 207: Gorbachev",
+  "created_at": "2026-10-26T20:17:36.377Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:17:36.377Z",
+  "updated_by": "raymondhyser"
+}

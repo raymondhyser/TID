@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "69afcc74-b9e4-46ea-b145-5e0b5c2b47db": {
+      "label": "Episode 232: FDA and Public Health",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2023/03/2023-03-30_This-is-Democracy_233.mp3",
+      "duration": 2047
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 232: FDA and Public Health",
+  "created_at": "2026-10-26T20:17:36.377Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:17:36.377Z",
+  "updated_by": "raymondhyser"
+}

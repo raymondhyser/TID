@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "ec554c4d-f292-4008-8547-6660a661b87c": {
+      "label": "Episode 205: Attorneys General",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2022/08/2022-08-17_This-is-Democracy_Episode-205.mp3",
+      "duration": 1862
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 205: Attorneys General",
+  "created_at": "2026-10-26T20:17:36.377Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:17:36.377Z",
+  "updated_by": "raymondhyser"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "6d1e9a11-f63d-439d-8839-02cb221a66c6": {
+      "label": "Episode 247: Strikes by Autoworkers",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2023/10/2023-10-06_This-Is-Democracy_master.mp3",
+      "duration": 2041
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 247: Strikes by Autoworkers",
+  "created_at": "2026-10-26T20:17:36.377Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:17:36.377Z",
+  "updated_by": "raymondhyser"
+}

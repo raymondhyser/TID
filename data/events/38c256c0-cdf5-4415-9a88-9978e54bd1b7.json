@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "6ccc1cdd-9cab-4b1c-a246-b36097678d20": {
+      "label": "Episode 280: Banking and Democracy",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2024/10/2024-10-11_This-is-Democracy_Master.mp3",
+      "duration": 1923
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 280: Banking and Democracy",
+  "created_at": "2026-10-26T20:17:36.377Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:17:36.377Z",
+  "updated_by": "raymondhyser"
+}
