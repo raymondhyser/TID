@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "75f93c74-1798-462f-a128-aeec1ba40698": {
-      "label": "Episode 169 â Vietnam War Legacies",
+      "label": "Episode 169: Vietnam War Legacies",
       "is_offline": false,
       "file_type": "Audio",
       "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2021/10/2021-10-21_This-is-Democracy_Episode-169_mastered-audio.mp3",
@@ -9,9 +9,12 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Episode 169 â Vietnam War Legacies",
+  "label": "Episode 169: Vietnam War Legacies",
   "created_at": "2026-10-26T20:15:52.294Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-10-26T20:15:52.294Z",
-  "updated_by": "raymondhyser"
+  "updated_at": "2026-10-26T20:21:01.313Z",
+  "updated_by": "raymondhyser",
+  "av_file_order": [
+    "75f93c74-1798-462f-a128-aeec1ba40698"
+  ]
 }
