@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4abe27d7-1a76-43cb-9825-14ce5c096f00": {
+      "label": "Episode 99: The Post Office and American Democracy",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2020/05/20-05-25-This-is-Democracy-1.mp3",
+      "duration": 2404
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 99: The Post Office and American Democracy",
+  "created_at": "2026-10-26T20:15:52.294Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:15:52.294Z",
+  "updated_by": "raymondhyser"
+}

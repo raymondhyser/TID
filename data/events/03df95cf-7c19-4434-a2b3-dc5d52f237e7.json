@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "f91d2939-805f-4b53-b8c5-b59b2375e21b": {
+      "label": "Episode 170: Biology of Democracy",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2021/10/2021-10-29_This-is-Democracy_Episode-170_Master.mp3",
+      "duration": 2367
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 170: Biology of Democracy",
+  "created_at": "2026-10-26T20:15:52.294Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:15:52.294Z",
+  "updated_by": "raymondhyser"
+}

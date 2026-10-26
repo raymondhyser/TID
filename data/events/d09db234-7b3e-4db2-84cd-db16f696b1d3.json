@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "6ed9f724-b924-4b4e-88d8-cd758846285a": {
+      "label": "Episode 105: Sunbelt Politics",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2020/07/2020-07-7_This-is-Democracy_Episode-105_2.mp3",
+      "duration": 2737
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 105: Sunbelt Politics",
+  "created_at": "2026-10-26T20:15:52.294Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:15:52.294Z",
+  "updated_by": "raymondhyser"
+}

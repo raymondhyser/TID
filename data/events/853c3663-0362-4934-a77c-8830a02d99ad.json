@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "07732280-66bc-43ea-9c80-cdb4d97f690d": {
+      "label": "Episode 128: The Republican Party",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2020/12/2020-12-08_This-is-Democracy_Episode-128.mp3",
+      "duration": 2571
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 128: The Republican Party",
+  "created_at": "2026-10-26T20:15:52.294Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:15:52.294Z",
+  "updated_by": "raymondhyser"
+}

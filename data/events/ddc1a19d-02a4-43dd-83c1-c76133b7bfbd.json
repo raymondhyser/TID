@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "038b24e0-0299-4de4-b9b0-d916b3745462": {
+      "label": "Episode 174: Immigration Policy Inside the United States",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2021/12/2021-12-01_This-is-Democracy_Episode-174_mastered.mp3",
+      "duration": 2222
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 174: Immigration Policy Inside the United States",
+  "created_at": "2026-10-26T20:15:52.294Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-10-26T20:15:52.294Z",
+  "updated_by": "raymondhyser"
+}
